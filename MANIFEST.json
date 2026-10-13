@@ -1,0 +1,30 @@
+{
+  "project": "VN-CF-Pages",
+  "language": "vi-VN",
+  "templates": [
+    {
+      "id": "T1",
+      "path": "templates/T1/index.html"
+    },
+    {
+      "id": "T2",
+      "path": "templates/T2/index.html"
+    },
+    {
+      "id": "T3",
+      "path": "templates/T3/index.html"
+    },
+    {
+      "id": "T4",
+      "path": "templates/T4/index.html"
+    },
+    {
+      "id": "T5",
+      "path": "templates/T5/index.html"
+    },
+    {
+      "id": "T6",
+      "path": "templates/T6/index.html"
+    }
+  ]
+}
